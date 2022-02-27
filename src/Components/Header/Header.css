@@ -1,0 +1,26 @@
+.header{
+    font-size:10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.icons{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-left:7px;
+    margin-right:8px;
+}
+
+.User{    
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-right:2rem;
+    margin-top:2rem;
+    cursor: pointer;
+}
+.User h2{
+    margin-left:2rem;
+}

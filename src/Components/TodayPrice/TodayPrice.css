@@ -1,0 +1,130 @@
+.Today_price {
+  width: 100%;
+  height: 75vh;
+  /* background-color: aquamarine; */
+  position: relative;
+  top: 2rem;
+  text-align: center;
+}
+
+.img{
+    width: auto;
+    height: 20vh;
+}
+.amout{
+    text-align: center;
+    color: rgb(100, 102, 104);
+    font-weight: 500;
+}
+.indian_rupee_icon{
+    font-size: 1.5rem;
+    position: absolute;
+    top: 14rem;
+    left:7rem;
+}
+.icon_rupee{
+    font-size: 1.5rem;
+    position: absolute;
+    left:2rem;
+    font-weight: bold;
+    cursor: progress;
+}
+
+.hr_line{
+    width:40%;
+    background-color: rgb(100, 102, 104);
+    position: absolute;
+    top: 16rem;
+    left:6.2rem;
+}
+.icon_color{
+    color: rgb(100, 102, 104);
+    position: absolute;
+    top: 16.9rem;
+    left:3rem;
+}
+.icon{
+    font-size:15px;
+}
+
+.input_type_rupee{
+    width: 30%;
+    height: 5vh;
+    border-radius: 0.5rem;
+    border: none;
+    font-size: 1.5rem;
+    position: absolute;
+    top: 14rem;
+    left:8rem;
+    text-align: center;
+    font-weight: bold;
+}
+
+.input_type{
+    width: 40%;
+    height: 5vh;
+    border-radius: 0.5rem;
+    border: none;
+    font-size: 1.5rem;
+    position: absolute;
+    top: 21rem;
+    left:6rem;
+    text-align: center;
+    font-weight: bold;
+}
+
+.next_hr_line{
+    width:40%;
+    background-color: rgb(100, 102, 104);
+    position: absolute;
+    top:23rem;
+    left:6.2rem;
+}
+
+.img_repeat{
+    width: auto;
+    height: 10vh;
+    position: absolute;
+    top: 25rem;
+    left:0rem;
+    float: left;
+    opacity: .3;
+}
+
+.img_repeat1{
+    width: auto;
+    height: 10vh;
+    position: absolute;
+    top: 25rem;
+    left:6rem;
+    float: left;
+    opacity: .3;
+
+}
+
+.img_repeat2{
+    width: auto;
+    height: 10vh;
+    position: absolute;
+    top: 25rem;
+    left: 18rem;
+    float: left;
+    opacity: .3;
+}
+
+.img_repeat3{
+    width: auto;
+    height: 10vh;
+    position: absolute;
+    top: 25rem;
+    float: left;
+    opacity: .3;
+
+}
+.grm{
+    font-size: 1rem;
+    position: absolute;
+    top:21.5rem;
+    left:12rem;
+    font-weight: 600;
+}
