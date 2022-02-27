@@ -1,3 +1,11 @@
+React project Today gold price use real gold api in this project And Gram change to rupee and rupee to gram ....
+
+![Screenshot (84)](https://user-images.githubusercontent.com/77378764/155881039-3509b3ba-9f9c-4a92-9ebb-2f518ca59042.png)
+![Screenshot (85)](https://user-images.githubusercontent.com/77378764/155881042-75bf249e-a283-4d4a-999d-752a8e8789c8.png)
+![Screenshot (86)](https://user-images.githubusercontent.com/77378764/155881044-2d1c7af9-7c46-4a15-8bdc-67fd3f9334ec.png)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
